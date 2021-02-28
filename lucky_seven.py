@@ -1,6 +1,6 @@
 def lucky_seven(A:list):
 	""" Return True if sum three any elements (natural numbers)
-		if list A equal 7 (seven) and print this elements; 
+		of list A equal 7 (seven) and print this elements; 
 		else - return False.
 		One element of list A can't be a summand twice.
 	"""
